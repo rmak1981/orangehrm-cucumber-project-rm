@@ -1,0 +1,216 @@
+2020-04-27 13:04:574 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:27 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:227 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:453 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:920 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:114 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:98 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:116 INFO  Homepage :35 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (e541ab62b45134e2f53cb609127dcc78)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 13:04:353 INFO  Homepage :40 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (e541ab62b45134e2f53cb609127dcc78)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 13:04:844 INFO  Homepage :45 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 13:04:918 INFO  DashboardPage :22 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (e541ab62b45134e2f53cb609127dcc78)] -> xpath: //a[@id='welcome']]
+2020-04-27 13:04:228 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:237 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (3c0c822b83d6cf49419f5422c80a9b82)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 13:04:470 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (3c0c822b83d6cf49419f5422c80a9b82)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 13:04:972 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 13:04:30 INFO  DashboardPage :28 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (3c0c822b83d6cf49419f5422c80a9b82)] -> xpath: //a[@id='welcome']]
+2020-04-27 13:04:585 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 13:04:787 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (86009a2afb86c9e676e705ee9a355045)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 13:04:201 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (86009a2afb86c9e676e705ee9a355045)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 13:04:400 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 13:04:30 INFO  DashboardPage :28 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (86009a2afb86c9e676e705ee9a355045)] -> xpath: //a[@id='welcome']]
+2020-04-27 14:04:572 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 14:04:382 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (ab1b3fc4dad2f49458acd293101bc5ec)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 14:04:568 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (ab1b3fc4dad2f49458acd293101bc5ec)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 14:04:807 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 14:04:861 INFO  DashboardPage :28 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (ab1b3fc4dad2f49458acd293101bc5ec)] -> xpath: //a[@id='welcome']]
+2020-04-27 14:04:403 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 14:04:334 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (fb269af1afdb3260faa5dd9172ff3b50)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 14:04:563 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (fb269af1afdb3260faa5dd9172ff3b50)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 14:04:379 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 14:04:423 INFO  DashboardPage :28 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (fb269af1afdb3260faa5dd9172ff3b50)] -> xpath: //a[@id='welcome']]
+2020-04-27 15:04:917 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:693 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (ca28e31d170bd5df425530ab874b2bd9)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:930 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (ca28e31d170bd5df425530ab874b2bd9)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:721 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:920 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (ca28e31d170bd5df425530ab874b2bd9)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 15:04:890 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2020-04-27 15:04:934 INFO  DashboardPage :73 - get text add employee[[ChromeDriver: chrome on WINDOWS (ca28e31d170bd5df425530ab874b2bd9)] -> xpath: //h1[contains(text(),'Add Employee')]]
+2020-04-27 15:04:989 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:633 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:227 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (b7c3a82fff04943d53b433cdba90aabb)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:655 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (b7c3a82fff04943d53b433cdba90aabb)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:210 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:284 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (b7c3a82fff04943d53b433cdba90aabb)] -> xpath: //a[@id='welcome']]
+2020-04-27 15:04:781 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:44 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (4b1be0ee350df8d838d3c02f5f078445)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:691 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (4b1be0ee350df8d838d3c02f5f078445)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:216 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:284 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (4b1be0ee350df8d838d3c02f5f078445)] -> xpath: //a[@id='welcome']]
+2020-04-27 15:04:859 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:818 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (950dea759cc4e61d41e5eec99ab527d8)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:60 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (950dea759cc4e61d41e5eec99ab527d8)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:706 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:938 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (950dea759cc4e61d41e5eec99ab527d8)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 15:04:731 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 15:04:782 INFO  DashboardPage :73 - get text add employee[[ChromeDriver: chrome on WINDOWS (950dea759cc4e61d41e5eec99ab527d8)] -> xpath: //h1[contains(text(),'Add Employee')]]
+2020-04-27 15:04:859 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:561 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:624 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (a4635707f6bf532283d806a80c2b870f)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:922 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (a4635707f6bf532283d806a80c2b870f)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:999 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:53 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (a4635707f6bf532283d806a80c2b870f)] -> xpath: //a[@id='welcome']]
+2020-04-27 15:04:596 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 15:04:351 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (ed11dc93369278a758247f5e2113fa75)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 15:04:753 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (ed11dc93369278a758247f5e2113fa75)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 15:04:583 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 15:04:656 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (ed11dc93369278a758247f5e2113fa75)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:337 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:335 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (d9ef2a4deee4c600edb3ca93b411b2e6)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:645 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (d9ef2a4deee4c600edb3ca93b411b2e6)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:674 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:454 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (d9ef2a4deee4c600edb3ca93b411b2e6)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 16:04:937 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 16:04:26 INFO  DashboardPage :73 - get text add employee[[ChromeDriver: chrome on WINDOWS (d9ef2a4deee4c600edb3ca93b411b2e6)] -> xpath: //h1[contains(text(),'Add Employee')]]
+2020-04-27 16:04:110 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:581 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (408dcf7a8b61f137e6fd6b6ea64ffcf6)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:897 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (408dcf7a8b61f137e6fd6b6ea64ffcf6)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:592 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:717 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (408dcf7a8b61f137e6fd6b6ea64ffcf6)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 16:04:367 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 16:04:10 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:247 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (3e1ef8a354eedc62ee36fe5bb499a0c1)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:544 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (3e1ef8a354eedc62ee36fe5bb499a0c1)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:01 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:66 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (3e1ef8a354eedc62ee36fe5bb499a0c1)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:528 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:16 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (79ca55da39118a7854244c5803b2f85b)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:454 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (79ca55da39118a7854244c5803b2f85b)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:30 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:72 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (79ca55da39118a7854244c5803b2f85b)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:177 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:28 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:472 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:654 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:382 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:571 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 16:04:506 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 16:04:747 INFO  DashboardPage :79 - enter first nameravito the field[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> id: firstName]
+2020-04-27 16:04:917 INFO  DashboardPage :84 - enter last namemakto the field[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> id: lastName]
+2020-04-27 16:04:643 INFO  DashboardPage :89 - click on add btn[[ChromeDriver: chrome on WINDOWS (ba21548b4f46629ce12c189125c7ee6a)] -> xpath: //input[@id='btnSave']]
+2020-04-27 16:04:666 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:835 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (965d2747c5ff867a3342853d45674fef)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:275 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (965d2747c5ff867a3342853d45674fef)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:88 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:168 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (965d2747c5ff867a3342853d45674fef)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:25 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:480 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (20d8857089bc7243f28dc2efcc9a9a97)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:894 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (20d8857089bc7243f28dc2efcc9a9a97)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:828 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:888 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (20d8857089bc7243f28dc2efcc9a9a97)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:308 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:785 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:20 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:487 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:776 INFO  DashboardPage :64 - click on pim[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 16:04:920 INFO  DashboardPage :69 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 16:04:817 INFO  DashboardPage :79 - enter first nameravito the field[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> id: firstName]
+2020-04-27 16:04:278 INFO  DashboardPage :84 - enter last namemakto the field[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> id: lastName]
+2020-04-27 16:04:387 INFO  DashboardPage :89 - click on add btn[[ChromeDriver: chrome on WINDOWS (8a25d19f0fc59b6fc03c79fb88a50581)] -> xpath: //input[@id='btnSave']]
+2020-04-27 16:04:410 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:79 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (f9a2b919babf5d5789e4d400c4c3d604)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:480 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (f9a2b919babf5d5789e4d400c4c3d604)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:606 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:678 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (f9a2b919babf5d5789e4d400c4c3d604)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:461 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:939 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (061371fce69824e0902aadec4740dad9)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:205 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (061371fce69824e0902aadec4740dad9)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:763 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:823 INFO  DashboardPage :46 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (061371fce69824e0902aadec4740dad9)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:917 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:409 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:631 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:349 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:733 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-27 16:04:869 INFO  DashboardPage :72 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-27 16:04:123 INFO  DashboardPage :82 - enter first nameravito the field[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> id: firstName]
+2020-04-27 16:04:308 INFO  DashboardPage :87 - enter last namemakto the field[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> id: lastName]
+2020-04-27 16:04:02 INFO  DashboardPage :92 - click on add btn[[ChromeDriver: chrome on WINDOWS (46cb93ab7f477b6126f2b7193418ce71)] -> xpath: //input[@id='btnSave']]
+2020-04-27 16:04:19 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:206 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (294993ae4fa7d5fe8a2b9d482cbe625f)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:634 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (294993ae4fa7d5fe8a2b9d482cbe625f)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:337 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:591 INFO  DashboardPage :49 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (294993ae4fa7d5fe8a2b9d482cbe625f)] -> xpath: //a[@id='welcome']]
+2020-04-27 16:04:924 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-27 16:04:787 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (541b594ae218b359790a13184dc52382)] -> xpath: //input[@id='txtUsername']]
+2020-04-27 16:04:298 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (541b594ae218b359790a13184dc52382)] -> xpath: //input[@id='txtPassword']]
+2020-04-27 16:04:855 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 16:04:77 INFO  DashboardPage :56 - click on Welcome to admin[[ChromeDriver: chrome on WINDOWS (541b594ae218b359790a13184dc52382)] -> css selector: a.panelTrigger]
+2020-04-27 16:04:79 INFO  DashboardPage :61 - click on log out Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
+2020-04-27 16:04:140 INFO  Homepage :52 - get login panel text[[ChromeDriver: chrome on WINDOWS (541b594ae218b359790a13184dc52382)] -> xpath: //div[@id='logInPanelHeading']]
+2020-04-29 17:04:609 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:546 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (bbf8067f27b6bf5af1f7b3067b609277)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:704 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (bbf8067f27b6bf5af1f7b3067b609277)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:293 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:361 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (bbf8067f27b6bf5af1f7b3067b609277)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:493 INFO  DashboardPage :72 - click on add btn [[ChromeDriver: chrome on WINDOWS (bbf8067f27b6bf5af1f7b3067b609277)] -> css selector: #btnAdd]
+2020-04-29 17:04:572 INFO  DashboardPage :76 - get text add employeeProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Add Employee')]'
+2020-04-29 17:04:93 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:37 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (83751fc5cade68d4a2e197d32ee1c8ec)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:528 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (83751fc5cade68d4a2e197d32ee1c8ec)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:536 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:787 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (83751fc5cade68d4a2e197d32ee1c8ec)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:931 INFO  DashboardPage :72 - click on add btn [[ChromeDriver: chrome on WINDOWS (83751fc5cade68d4a2e197d32ee1c8ec)] -> css selector: #btnAdd]
+2020-04-29 17:04:817 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:402 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (77ab77fecc7c63a96c1fa9761506660a)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:628 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (77ab77fecc7c63a96c1fa9761506660a)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:626 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:673 INFO  DashboardPage :49 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (77ab77fecc7c63a96c1fa9761506660a)] -> xpath: //a[@id='welcome']]
+2020-04-29 17:04:157 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:350 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (9dd5067414853a5cff66bc4a6a34d19e)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:837 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (9dd5067414853a5cff66bc4a6a34d19e)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:790 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:40 INFO  DashboardPage :56 - click on Welcome to admin[[ChromeDriver: chrome on WINDOWS (9dd5067414853a5cff66bc4a6a34d19e)] -> css selector: a.panelTrigger]
+2020-04-29 17:04:88 INFO  DashboardPage :61 - click on log out Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
+2020-04-29 17:04:173 INFO  Homepage :52 - get login panel text[[ChromeDriver: chrome on WINDOWS (9dd5067414853a5cff66bc4a6a34d19e)] -> xpath: //div[@id='logInPanelHeading']]
+2020-04-29 17:04:253 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:61 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (16981cc59f26b73b383f798f9975a998)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:234 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (16981cc59f26b73b383f798f9975a998)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:668 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:727 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (16981cc59f26b73b383f798f9975a998)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:875 INFO  DashboardPage :72 - click on add btn [[ChromeDriver: chrome on WINDOWS (16981cc59f26b73b383f798f9975a998)] -> css selector: #btnAdd]
+2020-04-29 17:04:915 INFO  DashboardPage :76 - get text add employee[[ChromeDriver: chrome on WINDOWS (16981cc59f26b73b383f798f9975a998)] -> css selector: div:nth-child(1) div:nth-child(3) div.box:nth-child(1) div.head > h1:nth-child(1)]
+2020-04-29 17:04:478 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:511 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (b0d9d054d38fa072a35a6b3473858a9b)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:740 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (b0d9d054d38fa072a35a6b3473858a9b)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:175 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:278 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (b0d9d054d38fa072a35a6b3473858a9b)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:428 INFO  DashboardPage :72 - click on add btn [[ChromeDriver: chrome on WINDOWS (b0d9d054d38fa072a35a6b3473858a9b)] -> css selector: #btnAdd]
+2020-04-29 17:04:27 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:344 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (6d074a1079846ec4df45079d6485cc66)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:596 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (6d074a1079846ec4df45079d6485cc66)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:264 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:306 INFO  DashboardPage :49 - get welcome to admin text[[ChromeDriver: chrome on WINDOWS (6d074a1079846ec4df45079d6485cc66)] -> xpath: //a[@id='welcome']]
+2020-04-29 17:04:778 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:564 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (9bb503b5f55e6a813555931b63b936c2)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:872 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (9bb503b5f55e6a813555931b63b936c2)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:650 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:859 INFO  DashboardPage :56 - click on Welcome to admin[[ChromeDriver: chrome on WINDOWS (9bb503b5f55e6a813555931b63b936c2)] -> css selector: a.panelTrigger]
+2020-04-29 17:04:835 INFO  DashboardPage :61 - click on log out Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
+2020-04-29 17:04:880 INFO  Homepage :52 - get login panel text[[ChromeDriver: chrome on WINDOWS (9bb503b5f55e6a813555931b63b936c2)] -> xpath: //div[@id='logInPanelHeading']]
+2020-04-29 17:04:975 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:991 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (cb8671f724b923a8d3634a6b43642008)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:161 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (cb8671f724b923a8d3634a6b43642008)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:129 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:254 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (cb8671f724b923a8d3634a6b43642008)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:390 INFO  DashboardPage :72 - click on add btn [[ChromeDriver: chrome on WINDOWS (cb8671f724b923a8d3634a6b43642008)] -> css selector: #btnAdd]
+2020-04-29 17:04:450 INFO  DashboardPage :76 - get text add employee[[ChromeDriver: chrome on WINDOWS (cb8671f724b923a8d3634a6b43642008)] -> css selector: div:nth-child(1) div:nth-child(3) div.box:nth-child(1) div.head > h1:nth-child(1)]
+2020-04-29 17:04:54 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-29 17:04:895 INFO  Homepage :38 - enter user nameAdminto the field[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 17:04:197 INFO  Homepage :43 - enter passwordadmin123to the field[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 17:04:794 INFO  Homepage :48 - click on log in brnProxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 17:04:380 INFO  DashboardPage :67 - click on pim[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-29 17:04:269 INFO  DashboardPage :72 - click on add btn Proxy element for: DefaultElementLocator 'By.cssSelector: #btnAdd'
+2020-04-29 17:04:457 INFO  DashboardPage :82 - enter first nameravito the field[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> xpath: //input[@id='firstName']]
+2020-04-29 17:04:602 INFO  DashboardPage :87 - enter last namemakto the field[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> id: lastName]
+2020-04-29 17:04:528 INFO  DashboardPage :92 - click on add btn[[ChromeDriver: chrome on WINDOWS (c517162729c80f068af05d77441ea690)] -> xpath: //input[@id='btnSave']]

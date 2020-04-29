@@ -1,0 +1,245 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 20997355900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should navigate to add employee page",
+        "description": "",
+        "id": "dashboard-feature;user-should-navigate-to-add-employee-page",
+        "after": [
+          {
+            "result": {
+              "duration": 449163000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 582080400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 361948900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 166696000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22964630600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "MyStepdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1119290800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on pim button",
+            "match": {
+              "location": "DashboardSteps.iClickOnPimButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133704200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on add button",
+            "match": {
+              "location": "DashboardSteps.iClickOnAddButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 182301600,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c[Employee Information]\u003e but was:\u003c[Add Employee]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.orangehrm.cucumber.stepdefs.DashboardSteps.iAmOnAddEmployeePage(DashboardSteps.java:28)\r\n\tat ✽.Then I am on add employee page(src/test/java/com/orangehrm/resources/featuresfiles/dashboard.feature:11)\r\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "I am on add employee page",
+            "match": {
+              "location": "DashboardSteps.iAmOnAddEmployeePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12590337100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User should add employee successfully",
+        "description": "",
+        "id": "dashboard-feature;user-should-add-employee-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 47500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 23739216500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on employee page",
+            "match": {
+              "location": "DashboardSteps.iAmOnEmployeePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20887140500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on add button",
+            "match": {
+              "location": "DashboardSteps.iClickOnAddButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 185220900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter firstname \"ravi\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ravi",
+                  "offset": 19
+                }
+              ],
+              "location": "DashboardSteps.iEnterFirstname(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143649600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I enter lastname \"mak\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mak",
+                  "offset": 18
+                }
+              ],
+              "location": "DashboardSteps.iEnterLastname(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 925652600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on save button",
+            "match": {
+              "location": "DashboardSteps.iClickOnSaveButton()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Dashboard feature",
+    "description": "As a user I want to add employee",
+    "id": "dashboard-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/orangehrm/resources/featuresfiles/dashboard.feature"
+  }
+]
